@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Daniela Freitas Trovão, tenho 29 anos, sou natural de São Paulo e moro em Portugal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniAmérica Descomplica. Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados e desafios que me permitam crescer na área.
+Me chamo Daniela Freitas Trovão, tenho 29 anos, sou natural de São Paulo e moro em Portugal. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniAmérica Descomplica. Estou sempre em busca de novos aprendizados e desafios que me permitam crescer na área do Desenvolvimento Web.
 
 ---
 
